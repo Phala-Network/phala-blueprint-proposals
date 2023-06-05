@@ -1,5 +1,7 @@
 # Phala Blueprint Proposals
 
+## ➡️ [Join the Discussion](https://github.com/Phala-Network/phala-blueprint-proposals/discussions) ⬅️
+
 ## Introduction
 
 This repository hosts the codebase for Phala Blueprint Proposals (PBPs). We encourage open and constructive discussions around the development and contributions of new blueprints to be developed.
@@ -8,7 +10,7 @@ This repository hosts the codebase for Phala Blueprint Proposals (PBPs). We enco
 
 To facilitate an organized approach to proposing new ideas, features or changes, we have adopted a process using the Discussions tab in GitHub. Here's a step-by-step guide on how to log new proposals:
 
-1. Navigate to the "Discussions" tab in the project's GitHub repository.
+1. Navigate to the ["Discussions" tab](https://github.com/Phala-Network/phala-blueprint-proposals/discussions) in the project's GitHub repository.
 2. Click on the "New discussion" button.
 3. In the dropdown under "Select Category", choose "Ideas".
 4. Give your proposal a concise and descriptive title.
